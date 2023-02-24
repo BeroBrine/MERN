@@ -1,0 +1,133 @@
+
+body
+{
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+
+
+.top-container
+{
+    position: relative;
+    background-color: powderblue;
+    padding-top: 40px;
+    text-align: center;
+    
+}
+
+
+
+.bottom-container
+{
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+
+    position: relative;
+    
+}
+.footer-link
+{
+    position: relative;
+    top: 50px;
+}
+hr
+{
+    color: teal;
+    border-style: dotted;
+    border-top: 0px;
+    border-width: 4.6px;
+    width: 1%;
+}
+h1
+{
+   color: teal; 
+    width: 40%;
+    margin: 0 auto 0 auto;
+    padding: 2rem auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+}
+
+h2
+{
+
+    color: teal; 
+    width: 40%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 200%;
+    
+
+}
+.web 
+{
+    color: teal;
+    width: 40%;
+    margin: 0 auto 0 auto;
+    font-size: 150%;
+    
+}
+p
+{
+    color: teal;
+    width: 40%;
+    margin: 0 auto 0 auto;
+    
+}
+.bottom-cloud
+{
+    position: absolute;
+    
+
+    
+}
+
+.right-cloud
+{
+    position: absolute;
+    right: 10%;
+    top: 40px;
+    
+}
+
+.top-cloud
+{
+    position: absolute;
+    left: 15%;
+    
+}
+
+.mountain
+{
+    position: relative;
+    bottom: 0;
+
+}
+
+
+.profile1
+{
+    position:relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin: 0 auto 0 auto;
+}
+
+.one
+{
+    position:relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin: 0 auto 0 auto;
+
+    
+}
+
+.skill-row
+{
+    text-align: left;
+    
+}
